@@ -1,1 +1,3 @@
-Primeiro arquivo criado no repositório como teste.
+Este projeto é referente ao desenvlvimento de um programa que permite controlar as etapas do funciomanto de alguns sistemas de sustentação aplicados à reabilitação, como por exemplo o Lokomat e o Zero G.
+O projeto ainda está em fase inicial, onde foram delimitados uma descrição narrativa e em blocos dos processos e entradas e saídas do sistema a ser automatizado. 
+Sobre o sistema que buscamos automatizar, o Lokomat que é um exoesqueleto que permite inserir informações de velocidade, amplitude de movimento e força garantindo a participação ativa e passiva do paciente e o ZeroG que é um mecanismo de suspensão que ajusta automaticamente a tração garantindo o deslocamento seguro do paciente.
